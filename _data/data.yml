@@ -38,6 +38,9 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Agile
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -47,6 +50,7 @@ career-profile:
     to anything related and I'm always eager to learn new things further and further.
     I use a lot of my free time to improve on my skills and to work on personal projects or just experimenting
     on the things I learn everyday.
+    I'm also passionate in videogames and I like to combine my passions in projects.
 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -57,23 +61,15 @@ educationcomplete:
     details: |
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: BrightCoders
+  - role: BrightCoders - Ruby On Rails
     time: 2022 Feb - Present
     company: Startup Hubs, San Francisco
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I've worked on many projects that mimic real work situations while learning the best practices
+      from professionals in the field. I learned Ruby On Rails web development in an environment that 
+      promoted teamwork and working with a project oriented focus.
 
-# Registra aquí los proyectos en los que has participado
+# Registra aquí los proyectos en los que has participado  
 # projects:
 #     title: Projects
     
@@ -93,14 +89,9 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
 
-    - name: Ruby On Rails
-      level: 60%
-
-    - name: Ruby
-      level: 60%
+    - name: Git
+      level: 80%
 
     - name: JavaScript
       level: 80%
@@ -111,17 +102,24 @@ skills:
     - name: CSS
       level: 80%
 
-    - name: SQL
+    - name: NodeJS
+      level: 60%
+      
+    - name: Ruby
       level: 60%
 
-    - name: Git
-      level: 80%
+    - name: Ruby On Rails
+      level: 40%
+
+    - name: SQL
+      level: 40%
 
     - name: Flutter
       level: 20%
 
-    - name: NodeJS
-      level: 60%
+    - name: Python
+      level: 20%
+
 
 # NO MODIFICAR
 footer: >

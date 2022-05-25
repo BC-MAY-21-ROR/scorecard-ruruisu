@@ -2,7 +2,7 @@
 
 # Site Settings
 title: BrightCoders Academy
-url: '' #'http://webjeda.com'
+url: 'https://github.com/BC-MAY-21-ROR/scorecard-ruruisu' #'http://webjeda.com'
 baseurl: 'https://bc-may-21-ror.github.io/scorecard-ruruisu/' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # NO modificar

@@ -48,12 +48,13 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Software developer that has delved both into front end and back end, with a focus on the latter.
+
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
+  - degree: Software Engineer
+    university: Universidad de Colima
     time: 2020 Oct - current
     details: |
 
@@ -147,11 +148,11 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Ruby
       level: 60%
+
+    - name: JavaScript
+      level: 80%
 
     - name: Caffe
       level: 80%

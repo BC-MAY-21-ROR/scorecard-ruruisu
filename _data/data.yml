@@ -13,16 +13,10 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: luisg.garciaespinoza@gmail.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  phone: 4436943977
+  linkedin: luisgae
+  github: ruruisu
+
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -48,45 +42,23 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Software developer that has delved both into front end and back end, with a focus on the latter.
+    Software developer that has delved both into front-end and back-end, with a focus on the latter.
+    Due to my experience in all things related to software and hardware, I'm a pretty fast learner 
+    to anything related and I'm always eager to learn new things further and further.
+    I use a lot of my free time to improve on my skills and to work on personal projects or just experimenting
+    on the things I learn everyday.
 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineer
     university: Universidad de Colima
-    time: 2020 Oct - current
+    time: 2020 - current
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
+  - role: BrightCoders
+    time: 2022 Feb - Present
     company: Startup Hubs, San Francisco
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -101,39 +73,15 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 # Registra aquí los proyectos en los que has participado
-projects:
-    title: Projects
+# projects:
+#     title: Projects
     
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -148,20 +96,32 @@ skills:
     - name: Python
       level: 20%
 
+    - name: Ruby On Rails
+      level: 60%
+
     - name: Ruby
       level: 60%
 
     - name: JavaScript
       level: 80%
 
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: SQL
+      level: 60%
+
+    - name: Git
+      level: 80%
+
+    - name: Flutter
+      level: 20%
+
+    - name: NodeJS
+      level: 60%
 
 # NO MODIFICAR
 footer: >

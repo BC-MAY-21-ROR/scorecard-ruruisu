@@ -46,6 +46,7 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     Software developer that has delved both into front-end and back-end, with a focus on the latter.
+    I'm interesed in developing web and mobile applications 
     Due to my experience in all things related to software and hardware, I'm a pretty fast learner 
     to anything related and I'm always eager to learn new things further and further.
     I use a lot of my free time to improve on my skills and to work on personal projects or just experimenting
@@ -57,26 +58,26 @@ career-profile:
 educationcomplete:
   - degree: Software Engineer
     university: Universidad de Colima
-    time: 2020 - current
+    time: 2020 - 2024
     details: |
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: BrightCoders - Ruby On Rails
-    time: 2022 Feb - Present
-    company: Startup Hubs, San Francisco
+    time: 2022 Feb - 2022 August
+    company: MagmaLabs
     details: |
       I've worked on many projects that mimic real work situations while learning the best practices
       from professionals in the field. I learned Ruby On Rails web development in an environment that 
       promoted teamwork and working with a project oriented focus.
 
 # Registra aquí los proyectos en los que has participado  
-# projects:
-#     title: Projects
+projects:
+    title: Nutricheck
     
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Nutricheck
+        link: "#hook"
+        tagline: "A complex web application for health checkups and a system that offered the tools for needed for dietitians and patients"
 
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -109,10 +110,10 @@ skills:
       level: 60%
 
     - name: Ruby On Rails
-      level: 40%
+      level: 60%
 
     - name: SQL
-      level: 40%
+      level: 60%
 
     - name: Flutter
       level: 20%
